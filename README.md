@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Antoni Ciereszko!
-
-POLAND
+---
+🗺 Olsztyn, Poland
+---
 🎂 I'm 14 years old and just starting my coding journey.  
 💻 I love learning and building fun projects in my free time.
 
